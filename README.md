@@ -31,7 +31,7 @@ You will need to get the url value from the fetched data structure and set it as
 
 **- Provided Components** 
 
- 1.  App:  An base component that initialize the Container Component
+ 1.  App: An base component that initialize the Container Component
 
  2. A Container: has a constructor with an initial state ({url: undefined}). A componentDidUpdate function that call the fetchData function. A render function that renders
  a string sentence if the url in the state is undefined or an html <img> with the url if it's not undefined.
@@ -64,9 +64,9 @@ and increment when a duplicate was found.
 
 This part is left for you. We don't require and fancy CSS or extravagant animations but it should look neat and easily displayed on a single screen (no scrollbars)
 
-- Submitting the solution
+**- Submitting the solution**
 
-Please provide us with your own github (or an alternative ) project that the code was pushed there.
+Please clone this repository, complete the assignment and sent back either a link to your repository or a zip of your solution. 
 
 ## Questions
 
